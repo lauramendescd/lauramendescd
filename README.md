@@ -1,7 +1,8 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-Hi 👋
+#Hi 👋
 I am student in Data Science at the Federal University of Ceará and collaborate in data science and artificial intelligence projects
+-
 
 
 
