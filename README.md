@@ -1,7 +1,6 @@
 ## Olá pessoal 👋
 
-<! --
-**lauramendescd/lauramendescd** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+<! **lauramendescd/lauramendescd** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.>
 
 I am student in Data Science at the Federal University of Ceará and collaborate in data science and artificial intelligence projects.
 
