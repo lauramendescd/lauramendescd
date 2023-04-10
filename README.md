@@ -2,6 +2,7 @@
 
 ### Hi 👋
 I am student in Data Science at the Federal University of Ceará and collaborate in data science and artificial intelligence projects
+-
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
