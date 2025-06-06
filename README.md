@@ -43,7 +43,7 @@ Sou Cientista de Dados formada pela Universidade Federal do Ceará, com sólida 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralmendes)  
-✉️ lauramendescd@email.com
+✉️ lauramendescd@gmail.com
 
 ---
 
