@@ -8,14 +8,15 @@ Atualmente, busco oportunidades para colaborar com empresas inovadoras como XP, 
 
 ## 🛠️ Skills Técnicas
 
-| Skill               | Nível       |
-|---------------------|-------------|
-| Python              | ![100%](https://progress-bar.dev/100) |
-| Análise Exploratória | ![95%](https://progress-bar.dev/95)  |
-| Modelagem Preditiva  | ![90%](https://progress-bar.dev/90)  |
-| Visualização de Dados| ![90%](https://progress-bar.dev/90)  |
-| SQL                 | ![80%](https://progress-bar.dev/80)  |
-| Git/GitHub          | ![85%](https://progress-bar.dev/85)  |
+| Skill               | Nível                  |
+|---------------------|------------------------|
+| Python              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Análise Exploratória | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  |
+| Modelagem Preditiva  | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  |
+| Visualização Dados   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  |
+| SQL                 | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  |
+| Git/GitHub          | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  |
+
 
 ---
 
