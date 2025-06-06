@@ -19,7 +19,17 @@ Sou Cientista de Dados formada pela Universidade Federal do Ceará, com sólida 
 
 ---
 
+## Certificações
 
+
+| Certificação                                                                       | Instituição | Ano  | Link para o Certificado                                                                                                                       |
+| ---------------------------------------------------------------------------------- | ----------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| NVIDIA Deep Learning Institute - Fundamentals of Deep Learning for Computer Vision | NVIDIA DLI  | 2024 | [Ver certificado](https://learn.nvidia.com/certificates?id=cf3c795a564a4cd68ba9444b5a92fed2)                                                  |
+| Formação Ciência de Dados                                                          | Alura       | 2023 | [Ver certificado](https://cursos.alura.com.br/certificate/ce5aa471-3ead-4287-92a3-6f1301cef294)                                               |
+| Curso de Análise de Dados Aplicada                                                 | Even3       | 2023 | [Ver certificado](https://www.even3.com.br/documentos/imprimir?i=7493695.5833225.9.7.578274408899473&cc=0DF103EE-2542-4B36-AEEC-2B893B237227) |
+
+
+---
 
 ## 📊 Métricas no GitHub
 
