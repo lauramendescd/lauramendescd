@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou a Laura Mendes
 
-Sou Cientista de Dados formada, com sólida experiência em análise exploratória, modelagem preditiva e storytelling de dados, focada em transformar dados complexos em decisões estratégicas para empresas e políticas públicas.  
+Sou Cientista de Dados formada pela Universidade Federal do Ceará, com sólida experiência em análise exploratória, modelagem preditiva e storytelling de dados, focada em transformar dados complexos em decisões estratégicas para empresas e políticas públicas.  
 
-Atualmente, busco oportunidades para colaborar com empresas inovadoras como XP, Vale, entre outras, que valorizam a inteligência de dados para impulsionar resultados.
 
 ---
 
